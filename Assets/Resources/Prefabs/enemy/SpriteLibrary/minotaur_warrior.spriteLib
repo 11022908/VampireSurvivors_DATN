@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Minotaur_01_Idle_000
+      m_Hash: 332292720
+      m_Sprite: {fileID: 21300000, guid: fdd517f595eadd44aab349c9a2d5b54a, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: a71672a2b499401469cf2a8230ce87f4, type: 3}
+    - m_Name: Minotaur_01_Idle_001
+      m_Hash: 617173734
+      m_Sprite: {fileID: 21300000, guid: 0e36d6c3fe7da014683dddad8e5d7f60, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 7f855609decdbfb41a46e17ab0670617, type: 3}
+    - m_Name: Minotaur_01_Idle_002
+      m_Hash: 1035993948
+      m_Sprite: {fileID: 21300000, guid: 611dbdddce91b984680408efe21dea48, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: bc6d0065c4608c44dba5e16f1f34b780, type: 3}
+    - m_Name: Minotaur_01_Idle_003
+      m_Hash: 180827082
+      m_Sprite: {fileID: 21300000, guid: b66ea37baddbcad45ac20e99fd54c517, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 0aa33e2e009e55840b415848b8da6b99, type: 3}
+    - m_Name: Minotaur_01_Idle_004
+      m_Hash: 346269289
+      m_Sprite: {fileID: 21300000, guid: b931041419d1ae445aa794ba4152237b, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 411d57f687210d04c957fa71681c663d, type: 3}
+    - m_Name: Minotaur_01_Idle_005
+      m_Hash: 597989119
+      m_Sprite: {fileID: 21300000, guid: 09d32de35aeba9e4c9c38ec0af48b307, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 877de2df1b6e2a4429c9b96a20c95355, type: 3}
+    - m_Name: Minotaur_01_Idle_006
+      m_Hash: 984467269
+      m_Sprite: {fileID: 21300000, guid: 0cf005b227094064b9d76b154bfcc9d9, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 5561f0e06f0a4f64bbcda00301d41627, type: 3}
+    - m_Name: Minotaur_01_Idle_007
+      m_Hash: 229308371
+      m_Sprite: {fileID: 21300000, guid: c657f013f1db6d642b4cd1f63600eb84, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: e92e8c286ea74de4ca6ba95ae653cb4c, type: 3}
+    - m_Name: Minotaur_01_Idle_008
+      m_Hash: 487975490
+      m_Sprite: {fileID: 21300000, guid: 07a3de3b0c3acb84f802aa0b836c71e9, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 6c914d0421cfbad44b960431a580f6b1, type: 3}
+    - m_Name: Minotaur_01_Idle_009
+      m_Hash: 705878740
+      m_Sprite: {fileID: 21300000, guid: 123950688bcfb4741a2631064f452e6c, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 9c68aaa27ee770f429283d60d8ce4a2d, type: 3}
+    - m_Name: Minotaur_01_Idle_010
+      m_Hash: 181752625
+      m_Sprite: {fileID: 21300000, guid: 63165795e1e55e048b8c7a3a59e4583c, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 59c803abe96693246b9857c9bf423ea7, type: 3}
+    - m_Name: Minotaur_01_Idle_011
+      m_Hash: 1037198247
+      m_Sprite: {fileID: 21300000, guid: 0522ae721e3d1404486b9125f2d37d31, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 2903ae9e350a81f4e9eb7f7ace780ad6, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 12
+  - m_Name: Walk
+    m_Hash: 765711723
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Minotaur_01_Walking_000
+      m_Hash: 103911318
+      m_Sprite: {fileID: 21300000, guid: f6c2f93c6966bfc43a964cffa77db638, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 572d2221249ed854c8fe0343d810da74, type: 3}
+    - m_Name: Minotaur_01_Walking_001
+      m_Hash: 825671424
+      m_Sprite: {fileID: 21300000, guid: b14be264c66fb404d91f754b8cfdd944, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: ceee6f1bf4e483e4593acf11aa9f0d3f, type: 3}
+    - m_Name: Minotaur_01_Walking_002
+      m_Hash: 675278522
+      m_Sprite: {fileID: 21300000, guid: 3ba1d0ef895358341a68ff499b0c715c, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: f3d71e60cf75f4147b67d7db5646fff8, type: 3}
+    - m_Name: Minotaur_01_Walking_003
+      m_Hash: 523820588
+      m_Sprite: {fileID: 21300000, guid: 649fb9f5c3737974da56a42ce6250123, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 04b5d9c503c137b40b19fa305380c639, type: 3}
+    - m_Name: Minotaur_01_Walking_004
+      m_Hash: 22825871
+      m_Sprite: {fileID: 21300000, guid: 3ee3e1b617caf74499f3f7004c592328, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: deb9e5d762164d54995af1fb6ff578d6, type: 3}
+    - m_Name: Minotaur_01_Walking_005
+      m_Hash: 911964953
+      m_Sprite: {fileID: 21300000, guid: c04425efe09bd9d40b3ddb5a136f40ab, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: ee449f598257fc94b8db8851ca3c9587, type: 3}
+    - m_Name: Minotaur_01_Walking_006
+      m_Hash: 793914019
+      m_Sprite: {fileID: 21300000, guid: 0b26d7c6892f1ac4d97aba07926e1b88, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: f95cd8760ff891e48ab59c3d13039d7d, type: 3}
+    - m_Name: Minotaur_01_Walking_007
+      m_Hash: 408230453
+      m_Sprite: {fileID: 21300000, guid: 6e028171176cb0c438a341ab0549d234, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: e3aaca74690741744961364d563fc655, type: 3}
+    - m_Name: Minotaur_01_Walking_008
+      m_Hash: 149555108
+      m_Sprite: {fileID: 21300000, guid: 8f45059cc0fec5d4fbeba7245441d927, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 1abc1d1fb38dd384985fccb499515c96, type: 3}
+    - m_Name: Minotaur_01_Walking_009
+      m_Hash: 1072510770
+      m_Sprite: {fileID: 21300000, guid: 5d8dfdf2912ebcf4797885e1d3728e9f, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 4932acf28c2e88f47a5d0a8f421cc074, type: 3}
+    - m_Name: Minotaur_01_Walking_010
+      m_Hash: 522895063
+      m_Sprite: {fileID: 21300000, guid: a8f8b23bed738504d95b28e6e9fbe638, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 4bb9ee05c269a07418798e1fbf0e1c35, type: 3}
+    - m_Name: Minotaur_01_Walking_011
+      m_Hash: 674074177
+      m_Sprite: {fileID: 21300000, guid: 173a90abf2c2f9e4295b6e3c93343742, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 482b854f62f5d89438dc644a841f96c9, type: 3}
+    - m_Name: Minotaur_01_Walking_012
+      m_Hash: 824500219
+      m_Sprite: {fileID: 21300000, guid: 2db79431733533b448a4b4806728c6ef, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: e777632763ef6c74a8d567c7ff4e293b, type: 3}
+    - m_Name: Minotaur_01_Walking_013
+      m_Hash: 103018349
+      m_Sprite: {fileID: 21300000, guid: 728a80dfd82f49942a68596901990253, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 2c07357c15fa00a41ae8a75167ee8c41, type: 3}
+    - m_Name: Minotaur_01_Walking_014
+      m_Hash: 407337678
+      m_Sprite: {fileID: 21300000, guid: 15fba4a5430626246a61d864c9f3acc3, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: b3921105eedb26d4f9ca5a129d0d7016, type: 3}
+    - m_Name: Minotaur_01_Walking_015
+      m_Hash: 792742488
+      m_Sprite: {fileID: 21300000, guid: fe118410797517848b12c5ae013ec06e, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 7d65ee081a3981a4dab5fdc754ee351f, type: 3}
+    - m_Name: Minotaur_01_Walking_016
+      m_Hash: 910760930
+      m_Sprite: {fileID: 21300000, guid: 189d626f54d2923458f45d38570c3172, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 0dbea930c37bd574fbd714756756f1bc, type: 3}
+    - m_Name: Minotaur_01_Walking_017
+      m_Hash: 21900148
+      m_Sprite: {fileID: 21300000, guid: 01a15acca9895e44983dd8bddf44ef18, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 11f27230031eb4844b2ddcb24355ea37, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 18
+  - m_Name: Attack
+    m_Hash: 7088141
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Minotaur_01_Attacking_000
+      m_Hash: 179660849
+      m_Sprite: {fileID: 21300000, guid: 3893677bc183ff7459a158cf6d7b916d, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: bd486ff1a04e12b49af5f8abcb6cafbf, type: 3}
+    - m_Name: Minotaur_01_Attacking_001
+      m_Hash: 1035098279
+      m_Sprite: {fileID: 21300000, guid: 678fa648c7a7aee43afa1dc8edcc73e5, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 50c7e260a4015ae419fcf68fd6d88e45, type: 3}
+    - m_Name: Minotaur_01_Attacking_002
+      m_Hash: 616237341
+      m_Sprite: {fileID: 21300000, guid: 1bb9f3f2bfeb0584a9f381f76347540b, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 3b52ca9da17dfbe4d84c25c0b4d7e627, type: 3}
+    - m_Name: Minotaur_01_Attacking_003
+      m_Hash: 331102603
+      m_Sprite: {fileID: 21300000, guid: e06cb87f8c11d3c468403d4e9e938e11, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 6e1340f0d8865bc4786b79d43ee102dc, type: 3}
+    - m_Name: Minotaur_01_Attacking_004
+      m_Hash: 232303656
+      m_Sprite: {fileID: 21300000, guid: 1950d5849c6087f4487db4c9315439b9, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: f9a672509b116ff4f8c5717d07ac1f70, type: 3}
+    - m_Name: Minotaur_01_Attacking_005
+      m_Hash: 987733182
+      m_Sprite: {fileID: 21300000, guid: 961a7f23dff777542bc73beb86c1a500, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 168144ac2e23c9e44b6fdd9e6b5fcca7, type: 3}
+    - m_Name: Minotaur_01_Attacking_006
+      m_Hash: 601279748
+      m_Sprite: {fileID: 21300000, guid: bbaa6cf8f6d6a5f48a84b99dc81a1a91, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 58af286701128e841822e917f77b172e, type: 3}
+    - m_Name: Minotaur_01_Attacking_007
+      m_Hash: 349306258
+      m_Sprite: {fileID: 21300000, guid: 1dfb2561ee8cde444a781d33857af020, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: b6ce1e16fc3dc134486a622eb428e422, type: 3}
+    - m_Name: Minotaur_01_Attacking_008
+      m_Hash: 74375171
+      m_Sprite: {fileID: 21300000, guid: a993348a43f11ba49a304ec520079a72, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 81f746824f00f5d45a8e9148c5588056, type: 3}
+    - m_Name: Minotaur_01_Attacking_009
+      m_Hash: 862572693
+      m_Sprite: {fileID: 21300000, guid: b85ddc8aacf3e7143b4baa4748ed55d8, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: a5cf346e45bedfd4bad9dca6015d9e93, type: 3}
+    - m_Name: Minotaur_01_Attacking_010
+      m_Hash: 330193264
+      m_Sprite: {fileID: 21300000, guid: 3f41411f200149b4180e529cdaec148c, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: f355280e315502240a3f0382fba1c008, type: 3}
+    - m_Name: Minotaur_01_Attacking_011
+      m_Hash: 615082470
+      m_Sprite: {fileID: 21300000, guid: c95fe497ed390ca41b35eb2f10805aa6, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 1960e1ba65c549d40a0d3018c02cf2bc, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 12
+  - m_Name: Die
+    m_Hash: 20298039
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Minotaur_01_Dying_000
+      m_Hash: 949446820
+      m_Sprite: {fileID: 21300000, guid: 5e917ad5df98b1c4da7fb785e46e259b, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 4f9ca57ee2cd66a40a7e3f76e929e952, type: 3}
+    - m_Name: Minotaur_01_Dying_001
+      m_Hash: 261118002
+      m_Sprite: {fileID: 21300000, guid: 01a11f87b6899f048b0122d00ad39799, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: c3d52a59a50035c4fb4dc718fb1a6145, type: 3}
+    - m_Name: Minotaur_01_Dying_002
+      m_Hash: 379128200
+      m_Sprite: {fileID: 21300000, guid: ec28e8dd3aea2914ea9eda205e2098b8, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 857ea3e2185bb7c4584f69a4da678804, type: 3}
+    - m_Name: Minotaur_01_Dying_003
+      m_Hash: 564017438
+      m_Sprite: {fileID: 21300000, guid: cc9ddcdadcf6ee74eb1899b6008430ca, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 34b75572581949b4fb2b26ade53e5291, type: 3}
+    - m_Name: Minotaur_01_Dying_004
+      m_Hash: 1073392829
+      m_Sprite: {fileID: 21300000, guid: b47db94f34382da4db32fb356418d8ce, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: c34788e67166e3d4e9f0d91d13d820d0, type: 3}
+    - m_Name: Minotaur_01_Dying_005
+      m_Hash: 150838315
+      m_Sprite: {fileID: 21300000, guid: 0f7198c0a9c830d4e96e6cbe93302a53, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 74d5fa841d94f3548aca4ee4e620cbe9, type: 3}
+    - m_Name: Minotaur_01_Dying_006
+      m_Hash: 301256081
+      m_Sprite: {fileID: 21300000, guid: 9d9e4b9f350c0954da843346ed969a3b, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: dff0cf6d2770add4d88dc1dc652ca5bd, type: 3}
+    - m_Name: Minotaur_01_Dying_007
+      m_Hash: 653524231
+      m_Sprite: {fileID: 21300000, guid: 4131e46e25df9d64bb890ec0ba99ce59, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 9ad4ccea1c1a4d4499a16b80a439297d, type: 3}
+    - m_Name: Minotaur_01_Dying_008
+      m_Hash: 911007894
+      m_Sprite: {fileID: 21300000, guid: bc78e6da463e2d44a9b3744339092bc6, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 50861fd6de1ae7f4da8c1ec621ffb33e, type: 3}
+    - m_Name: Minotaur_01_Dying_009
+      m_Hash: 21745664
+      m_Sprite: {fileID: 21300000, guid: adf43743d4cab0e42a8e2cace0b97fa1, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 2dcd4e1615e6c9a4db9bc78b418a5e34, type: 3}
+    - m_Name: Minotaur_01_Dying_010
+      m_Hash: 562846181
+      m_Sprite: {fileID: 21300000, guid: bfc5dc3a773a70c4ca9f815191ea1c6d, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 668461ee7a278c749bb877a8323db7e3, type: 3}
+    - m_Name: Minotaur_01_Dying_011
+      m_Hash: 378235251
+      m_Sprite: {fileID: 21300000, guid: dc34e7b0f797fa947a06b5d758b6a1c6, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 945ef56f25db04c43a13d6b4b98b3ce5, type: 3}
+    - m_Name: Minotaur_01_Dying_012
+      m_Hash: 260192457
+      m_Sprite: {fileID: 21300000, guid: 165c8a58c55ef0d489d71ba74d0766a4, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 1cb9014048debcb42a93070cf992530d, type: 3}
+    - m_Name: Minotaur_01_Dying_013
+      m_Hash: 948242527
+      m_Sprite: {fileID: 21300000, guid: e7a2639633a5f9344b84ca6b5ae10cfb, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 8eebe8a950e3e0b41a0f59b4b10e4ec9, type: 3}
+    - m_Name: Minotaur_01_Dying_014
+      m_Hash: 652320252
+      m_Sprite: {fileID: 21300000, guid: fb4f44af9c91b584ebe3824e9809fc50, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: f14678389d484564181f9f164b212282, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 15
+  m_PrimaryLibraryGUID: f079a0e83c300324b83eafc4cce091b3
+  m_ModificationHash: 638512991248477590
+  m_Version: 1
